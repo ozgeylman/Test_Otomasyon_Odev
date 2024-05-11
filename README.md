@@ -7,3 +7,8 @@ Change something on Readme.MD File
 Second Line changed *****
 
 KOCER fist change for git
+
+This line changed by Cansu- commited 
+Updated line for staging -add to VCS- invisible until new commit.
+Updated line for staging value after commit
+push after the PR 
