@@ -8,4 +8,6 @@ Second Line changed *****
 
 KOCER fist change for git
 
-This line changed by Cansu
+This line changed by Cansu- commited 
+Updated line for staging -add to VCS- invisible until new commit.
+Updated line for stating value after commit
