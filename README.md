@@ -9,4 +9,5 @@ Second Line changed *****
 KOCER fist change for git
 
 
-change something on Readme.MD file
+change something on README.md file
+Second line changed 
