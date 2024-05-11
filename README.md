@@ -5,3 +5,5 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 Change something on Readme.MD File
 
 Second Line changed *****
+
+KOCER fist change for git
