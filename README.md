@@ -10,4 +10,4 @@ KOCER fist change for git
 
 This line changed by Cansu- commited 
 Updated line for staging -add to VCS- invisible until new commit.
-Updated line for stating value after commit
+Updated line for staging value after commit
