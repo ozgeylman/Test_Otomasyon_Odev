@@ -13,3 +13,5 @@ Updated line for staging -add to VCS- invisible until new commit.
 Updated line for staging value after commit
 push after the PR 
 Sarp added a line
+
+change readme gizem
