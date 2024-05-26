@@ -17,4 +17,4 @@ Sarp added a line
 change readme gizem
 
 
-changed readme özge
+changed readme özgeee
