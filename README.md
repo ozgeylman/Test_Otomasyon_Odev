@@ -15,3 +15,6 @@ push after the PR
 Sarp added a line
 
 change readme gizem
+
+
+changed readme özge 
