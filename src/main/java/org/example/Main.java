@@ -7,7 +7,6 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
 
-
      Person person1= new Person();   //person1 nesnesinin oluşturulması ve değer atamaları.
      person1.adi= "Özge";
      person1.soyadi= "Yilman";

@@ -10,7 +10,7 @@ public class Person {
     String telefonNo;
     int maasBeklentisi;
 
-
+//..
 
     void calistir(){
 
